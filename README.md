@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @willmclaughlin13
-- 👀 I’m interested in ... finding a career in Computer Science, especially software development and cyber security.
-- 🌱 I’m currently learning ... Cyber Security.
-- 💞️ I’m looking to collaborate on ... Any software development, pen testing, or defensive security projects.
-- 📫 How to reach me ... The best way to reach me is by email: williammclaughlin1@acm.org
+
